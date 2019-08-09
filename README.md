@@ -1,1 +1,1 @@
-SHA3 for packet/frame in a video, using ffmpeg and cryptopp
+SHA3 for the packet/frame in a video, using ffmpeg and cryptopp
